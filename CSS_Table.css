@@ -1,8 +1,8 @@
 ﻿table {
-	border : 1px solid silver;
+	border: 1px solid silver;
 }
 
-ts: hover {
+td:hover {
 	background-color: yellow;
 	color: black;
 }
